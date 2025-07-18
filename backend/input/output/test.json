@@ -1,0 +1,18 @@
+{
+  "title": "rules.pdf",
+  "outline": [...],
+  "sections": [
+    {
+      "title": "1. Welcome to the",
+      "summary": "This section introduces the Adobe Hackathon challenge and sets the tone for innovation and intelligent PDF experiences."
+    },
+    {
+      "title": "2. Round 1A: Understand Your Document",
+      "summary": "This section outlines the task of building a PDF heading extractor with precise output formatting using Docker."
+    },
+    {
+      "title": "3. Round 1B: Persona-Driven Document Intelligence",
+      "summary": "Describes how to extract and rank relevant sections from multiple PDFs based on user persona and job."
+    }
+  ]
+}
